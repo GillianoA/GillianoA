@@ -2,7 +2,7 @@
 👋 Hi there! I'm Gilliano Agard, a versatile junior software developer passionate about coding and problem-solving. Here's a brief overview of my skills and accomplishments.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Wiierd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gilli.tt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gilliano-agard-770850282/) 
 
 # 💻 Tech Stack:
