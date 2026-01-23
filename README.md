@@ -70,9 +70,3 @@ Client → Entra ID → Azure Container Apps (DAB API) → Database Views → Da
 - LinkedIn: https://linkedin.com/in/gilliano-agard-770850282/
 - Instagram: https://instagram.com/gilli.tt  
 - GitHub: https://github.com/GillianoA
-
----
-
-## 📈 GitHub Stats
-![GIllianoA's Stats](https://github-readme-stats.vercel.app/api?username=GIllianoA&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GillianoA&theme=dark&hide_border=false&layout=compact)
