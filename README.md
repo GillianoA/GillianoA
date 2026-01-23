@@ -1,19 +1,78 @@
-# 💫 About Me:
-👋 I'm Gilliano Agard, a versatile junior software developer passionate about building efficient solutions, problem-solving, and exploring the intersection of fitness and coding. I specialize in web development, automation, and system administration, with hands-on experience in React, JavaScript, Python, and WordPress development.
+# 👋 Hi, I’m Gilliano Agard
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Wiierd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gilli.tt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gilliano-agard-770850282/) 
+I’m a **Cloud Engineer (Azure)** focused on building **secure, scalable cloud solutions** with strong foundations in **identity, security, automation, and cloud operations**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=GillianoA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GillianoA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy designing systems end-to-end — from authentication and deployment to monitoring and reliability — and turning real-world requirements into production-ready Azure implementations.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GillianoA&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Current Focus (2026)
+- **Azure Cloud Engineering** (PaaS-first architectures)
+- **Identity & Security** (Microsoft Entra ID, Conditional Access, RBAC)
+- **Cloud Ops & Automation** (PowerShell, Microsoft Graph, CI/CD)
+- **Infrastructure as Code** (Bicep/Terraform)
+- **Monitoring & Observability** (Azure Monitor, Log Analytics, App Insights)
+
+---
+
+## 🧠 What I Work With
+**Azure:** Container Apps • App Service • Key Vault • Monitor • Log Analytics • Networking (basics)  
+**Microsoft 365:** Entra ID • Intune • Conditional Access • MFA • Security Baselines  
+**DevOps:** GitHub Actions • Azure DevOps (basics) • CI/CD pipelines  
+**Languages:** PowerShell • Python • JavaScript  
+**Databases:** SQL (views) • PostgreSQL / Azure SQL (learning)
+
+---
+
+## 🚀 Featured Projects
+### 🔐 Secure API Layer on Azure Container Apps (DAB + Entra Auth)
+A production-style cloud project focused on **secure API exposure** and **clean data access patterns**.
+
+**What I built**
+- Containerized API using **Microsoft Data API Builder (DAB)**
+- Deployed to **Azure Container Apps**
+- Connected to a database using **Views** for complex query logic
+- Exposed REST endpoints via DAB configuration
+- Enforced **Microsoft Entra ID authentication** (no anonymous access)
+
+**Architecture**
+Client → Entra ID → Azure Container Apps (DAB API) → Database Views → Database
+
+**Next upgrades**
+- Key Vault + Managed Identity  
+- IaC (Bicep/Terraform)  
+- CI/CD deployment  
+- Monitoring + alerts  
+
+📌 Repo: *[(Project Link)](https://github.com/GillianoA/cloud-engineer-journey/tree/main/projects/01-secure-container-api)*  
+📌 Diagram: `/assets/DAB-infrastructure-diagram.drawio`
+
+---
+
+## 💼 Experience Highlights
+- Administer and support **Microsoft 365 + Azure** environments (Entra ID, Intune, access/security policies)
+- Troubleshoot identity, compliance, and platform issues using logs and structured triage
+- Automate operational workflows to reduce manual effort and improve consistency
+- Maintain clean documentation/runbooks for supportability and handover
+
+---
+
+## 📜 Certifications
+- **AZ-104 — Azure Administrator Associate**
+- **AZ-900 — Azure Fundamentals**
+- **ITIL 4**
+
+*(Next: MD-102 → AZ-500 → AZ-305)*
+
+---
+
+## 🌐 Links
+- LinkedIn: https://linkedin.com/in/gilliano-agard-770850282/
+- Instagram: https://instagram.com/gilli.tt  
+- GitHub: https://github.com/GillianoA
+
+---
+
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GillianoA&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GillianoA&theme=dark&hide_border=false&layout=compact)
