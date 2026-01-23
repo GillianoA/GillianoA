@@ -36,7 +36,7 @@ A production-style cloud project focused on **secure API exposure** and **clean 
 - Enforced **Microsoft Entra ID authentication** (no anonymous access)
 
 **Architecture**
-Client → Entra ID → Azure Container Apps (DAB API) → Database Views → Database
+Client -> Entra ID -> Azure Container Apps (DAB API) -> Database Views -> Database
 
 **Next upgrades**
 - Key Vault + Managed Identity  
