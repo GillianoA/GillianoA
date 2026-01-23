@@ -74,5 +74,5 @@ Client → Entra ID → Azure Container Apps (DAB API) → Database Views → Da
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GillianoA&theme=dark&hide_border=false)
+![GIllianoA's Stats](https://github-readme-stats.vercel.app/api?username=GIllianoA&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GillianoA&theme=dark&hide_border=false&layout=compact)
