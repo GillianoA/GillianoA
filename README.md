@@ -2,7 +2,7 @@
 
 I’m a **Cloud Engineer (Azure)** focused on building **secure, scalable cloud solutions** with strong foundations in **identity, security, automation, and cloud operations**.
 
-I enjoy designing systems end-to-end — from authentication and deployment to monitoring and reliability — and turning real-world requirements into production-ready Azure implementations.
+I enjoy designing systems end-to-end from authentication and deployment to monitoring and reliability and turning real-world requirements into production-ready Azure implementations.
 
 ---
 
