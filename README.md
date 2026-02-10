@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gilliano Agard
+# Hi, I’m Gilliano Agard
 
 I’m a **Cloud Engineer (Azure)** focused on building **secure, scalable cloud solutions** with strong foundations in **identity, security, automation, and cloud operations**.
 
@@ -6,7 +6,7 @@ I enjoy designing systems end-to-end from authentication and deployment to monit
 
 ---
 
-## 🎯 Current Focus (2026)
+## Current Focus (2026)
 - **Azure Cloud Engineering** (PaaS-first architectures)
 - **Identity & Security** (Microsoft Entra ID, Conditional Access, RBAC)
 - **Cloud Ops & Automation** (PowerShell, Microsoft Graph, CI/CD)
@@ -15,7 +15,7 @@ I enjoy designing systems end-to-end from authentication and deployment to monit
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 **Azure:** Container Apps • App Service • Key Vault • Monitor • Log Analytics • Networking (basics)  
 **Microsoft 365:** Entra ID • Intune • Conditional Access • MFA • Security Baselines  
 **DevOps:** GitHub Actions • Azure DevOps (basics) • CI/CD pipelines  
@@ -24,12 +24,12 @@ I enjoy designing systems end-to-end from authentication and deployment to monit
 
 ---
 
-## 🚀 Featured Projects
-### 🔐 Secure API Layer on Azure Container Apps (DAB + Entra Auth)
+## Featured Projects
+### Secure API Layer on Azure Container Apps (DAB + Entra Auth)
 A production-style cloud project focused on **secure API exposure** and **clean data access patterns**.
 
 **What I built**
-- Containerized API using **Microsoft Data API Builder (DAB)**
+- Containerised API using **Microsoft Data API Builder (DAB)**
 - Deployed to **Azure Container Apps**
 - Connected to a database using **Views** for complex query logic
 - Exposed REST endpoints via DAB configuration
@@ -49,7 +49,7 @@ Client -> Entra ID -> Azure Container Apps (DAB API) -> Database Views -> Databa
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 - Administer and support **Microsoft 365 + Azure** environments (Entra ID, Intune, access/security policies)
 - Troubleshoot identity, compliance, and platform issues using logs and structured triage
 - Automate operational workflows to reduce manual effort and improve consistency
@@ -57,7 +57,7 @@ Client -> Entra ID -> Azure Container Apps (DAB API) -> Database Views -> Databa
 
 ---
 
-## 📜 Certifications
+## Certifications
 - **AZ-104 — Azure Administrator Associate**
 - **AZ-900 — Azure Fundamentals**
 - **ITIL 4**
