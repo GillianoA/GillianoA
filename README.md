@@ -67,6 +67,6 @@ Client -> Entra ID -> Azure Container Apps (DAB API) -> Database Views -> Databa
 ---
 
 ## 🌐 Links
-- LinkedIn: https://linkedin.com/in/gilliano-agard-770850282/
+- LinkedIn: https://linkedin.com/in/gilliano-agard/
 - Instagram: https://instagram.com/gilli.tt  
 - GitHub: https://github.com/GillianoA
