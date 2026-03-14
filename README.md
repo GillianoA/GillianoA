@@ -1,6 +1,6 @@
 # Hi, I’m Gilliano Agard
 
-I’m a **Cloud Engineer (Azure)** focused on building **secure, scalable cloud solutions** with strong foundations in **identity, security, automation, and cloud operations**.
+I’m a **Cloud Security Engineer (Azure)** focused on building **secure, scalable cloud solutions** with strong foundations in **identity, security, automation, and cloud operations**.
 
 I enjoy designing systems end-to-end from authentication and deployment to monitoring and reliability and turning real-world requirements into production-ready Azure implementations.
 
@@ -62,7 +62,7 @@ Client -> Entra ID -> Azure Container Apps (DAB API) -> Database Views -> Databa
 - **AZ-900 — Azure Fundamentals**
 - **ITIL 4**
 
-*(Next: MD-102 → AZ-500 → AZ-305)*
+*(Next: MD-102 -> Hashicorp: Terraform -> AZ-500)*
 
 ---
 
