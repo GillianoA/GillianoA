@@ -1,72 +1,40 @@
-# Hi, I’m Gilliano Agard
+# Gilliano Agard | Cloud Security & DevSecOps
 
-I’m a **Cloud Security Engineer (Azure)** focused on building **secure, scalable cloud solutions** with strong foundations in **identity, security, automation, and cloud operations**.
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gillianoagard.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilliano-agard/)
 
-I enjoy designing systems end-to-end from authentication and deployment to monitoring and reliability and turning real-world requirements into production-ready Azure implementations.
-
----
-
-## Current Focus (2026)
-- **Azure Cloud Engineering** (PaaS-first architectures)
-- **Identity & Security** (Microsoft Entra ID, Conditional Access, RBAC)
-- **Cloud Ops & Automation** (PowerShell, Microsoft Graph, CI/CD)
-- **Infrastructure as Code** (Bicep/Terraform)
-- **Monitoring & Observability** (Azure Monitor, Log Analytics, App Insights)
+I am a Cloud Security & DevSecOps Engineer designing scalable, zero-trust architectures within the Microsoft ecosystem. I specialise in translating infrastructure vulnerabilities into manageable business risks, enforcing identity-first security, and automating SOC 2 compliance workflows.
 
 ---
 
-## What I Work With
-**Azure:** Container Apps • App Service • Key Vault • Monitor • Log Analytics • Networking (basics)  
-**Microsoft 365:** Entra ID • Intune • Conditional Access • MFA • Security Baselines  
-**DevOps:** GitHub Actions • Azure DevOps (basics) • CI/CD pipelines  
-**Languages:** PowerShell • Python • JavaScript  
-**Databases:** SQL (views) • PostgreSQL / Azure SQL (learning)
+## ⚙️ Core Operations & Stack
+* **Cloud & DevSecOps:** Microsoft Azure, Terraform, GitHub Actions (CI/CD), Docker, Azure Container Apps
+* **Security & Identity:** Entra ID, Microsoft Intune, Conditional Access, RBAC, Cloudflare WAF
+* **Governance & Compliance:** Continuous SOC 2 Audit Readiness, Drata, Access Governance
+* **Automation:** Python, PowerShell, REST APIs
 
 ---
 
-## Featured Projects
-### Secure API Layer on Azure Container Apps (DAB + Entra Auth)
-A production-style cloud project focused on **secure API exposure** and **clean data access patterns**.
+## Featured Architecture & Deployments
 
-**What I built**
-- Containerised API using **Microsoft Data API Builder (DAB)**
-- Deployed to **Azure Container Apps**
-- Connected to a database using **Views** for complex query logic
-- Exposed REST endpoints via DAB configuration
-- Enforced **Microsoft Entra ID authentication** (no anonymous access)
+### 1. [Zero-Touch DevSecOps Pipeline & Edge Security]([https://gillianoagard.com](https://gillianoagard.com/posts/zero-touch-devsecops-pipeline/))
+* **Architecture:** Engineered a fully automated CI/CD pipeline enforcing Infrastructure as Code (IaC) principles to deploy a highly resilient portfolio infrastructure.
+* **Security:** Placed the Azure Web App origin behind a strict Cloudflare reverse proxy, engineering custom WAF rules to drop automated botnet reconnaissance at the edge.
 
-**Architecture**
-Client -> Entra ID -> Azure Container Apps (DAB API) -> Database Views -> Database
-
-**Next upgrades**
-- Key Vault + Managed Identity  
-- IaC (Bicep/Terraform)  
-- CI/CD deployment  
-- Monitoring + alerts  
-
-📌 Repo: *[(Project Link)](https://github.com/GillianoA/cloud-engineer-journey/tree/main/projects/01-secure-container-api)*  
-📌 Diagram: `/assets/DAB-infrastructure-diagram.drawio`
+### 2. [Secure API Layer on Azure Container Apps](https://github.com/GillianoA/cloud-engineer-journey/tree/main/projects/01-secure-container-api)
+* **Architecture:** Designed and deployed an authenticated API layer on Azure Container Apps using Microsoft Data API Builder (DAB), isolating complex query logic in database views.
+* **Security:** Enforced Microsoft Entra ID authentication to ensure secure access control across all REST endpoints, completely eliminating anonymous access.
 
 ---
 
-## Experience Highlights
-- Administer and support **Microsoft 365 + Azure** environments (Entra ID, Intune, access/security policies)
-- Troubleshoot identity, compliance, and platform issues using logs and structured triage
-- Automate operational workflows to reduce manual effort and improve consistency
-- Maintain clean documentation/runbooks for supportability and handover
+## Current Engineering Focus (2026)
+* Architecting standardised, zero-touch deployment policies and endpoint compliance frameworks via Microsoft Intune in preparation for the **Microsoft 365 Endpoint Administrator (MD-102)** certification.
+* Upgrading existing API infrastructure to utilise Azure Key Vault and Managed Identities for secretless authentication.
 
 ---
 
 ## Certifications
-- **AZ-104 — Azure Administrator Associate**
-- **AZ-900 — Azure Fundamentals**
-- **ITIL 4**
-
-*(Next: MD-102 -> Hashicorp: Terraform -> AZ-500)*
-
----
-
-## 🌐 Links
-- LinkedIn: https://linkedin.com/in/gilliano-agard/
-- Instagram: https://instagram.com/gilli.tt  
-- GitHub: https://github.com/GillianoA
+* **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+* **ITIL 4 Foundation**
+* **Microsoft Certified: Azure Fundamentals (AZ-900)**
+* *In Progress:* MD-102 (Endpoint Administrator) -> Hashicrop: Terraform Associate
